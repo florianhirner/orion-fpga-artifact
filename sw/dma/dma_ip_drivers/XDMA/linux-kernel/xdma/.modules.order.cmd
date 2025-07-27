@@ -1,0 +1,1 @@
+cmd_/home/share/dma_ip_drivers/XDMA/linux-kernel/xdma/modules.order := {   echo /home/share/dma_ip_drivers/XDMA/linux-kernel/xdma/xdma.ko; :; } | awk '!x[$$0]++' - > /home/share/dma_ip_drivers/XDMA/linux-kernel/xdma/modules.order

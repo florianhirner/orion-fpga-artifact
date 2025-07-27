@@ -1,0 +1,1 @@
+cmd_/home/share/dma_ip_drivers/XDMA/linux-kernel/xdma/xdma.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/share/dma_ip_drivers/XDMA/linux-kernel/xdma/xdma.ko /home/share/dma_ip_drivers/XDMA/linux-kernel/xdma/xdma.o /home/share/dma_ip_drivers/XDMA/linux-kernel/xdma/xdma.mod.o;  true

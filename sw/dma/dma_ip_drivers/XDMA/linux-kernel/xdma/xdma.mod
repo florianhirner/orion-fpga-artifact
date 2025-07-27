@@ -1,0 +1,2 @@
+/home/share/dma_ip_drivers/XDMA/linux-kernel/xdma/libxdma.o /home/share/dma_ip_drivers/XDMA/linux-kernel/xdma/xdma_cdev.o /home/share/dma_ip_drivers/XDMA/linux-kernel/xdma/cdev_ctrl.o /home/share/dma_ip_drivers/XDMA/linux-kernel/xdma/cdev_events.o /home/share/dma_ip_drivers/XDMA/linux-kernel/xdma/cdev_sgdma.o /home/share/dma_ip_drivers/XDMA/linux-kernel/xdma/cdev_xvc.o /home/share/dma_ip_drivers/XDMA/linux-kernel/xdma/cdev_bypass.o /home/share/dma_ip_drivers/XDMA/linux-kernel/xdma/xdma_mod.o /home/share/dma_ip_drivers/XDMA/linux-kernel/xdma/xdma_thread.o
+
